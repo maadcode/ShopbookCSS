@@ -1,0 +1,20 @@
+{
+  "name": "maadcodeshoopbook-sass-flexbox-gulp",
+  "version": "1.0.0",
+  "description": "\"Proyecto Tienda de libros con Sass, Flexbox y Gulp\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Dávila | @Maadcode",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "browsersList": [
+    "> 1%",
+    "last 2 versions"
+  ] 
+}
